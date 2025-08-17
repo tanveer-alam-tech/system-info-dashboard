@@ -8,7 +8,7 @@ The dashboard auto-refreshes every 60 seconds and is synchronized with the syste
 
 ## 🖥️ Screenshot
 
-> ![screenshot](screenshot.png)
+<img width="580" height="451" alt="screenshot" src="https://github.com/user-attachments/assets/88c63660-a5dc-4e81-9866-a2edebe84a90" />
 
 ---
 
@@ -38,11 +38,3 @@ The dashboard auto-refreshes every 60 seconds and is synchronized with the syste
 | **cron**     | Scheduled dashboard regeneration |
 
 ---
-
-## 📦 File Structure
-
-system-info-dashboard/
-├── generate_dashboard.sh # Bash script to generate the dashboard
-├── index.html # Generated dashboard file
-├── README.md # You're reading it
-└── screenshot.png # (Optional screenshot of your dashboard)
